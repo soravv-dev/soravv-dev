@@ -1,134 +1,164 @@
-<h1 align="center">Hi there! 👋 I'm Saurabh Kumar</h1>
-
-<h3 align="center">🚀 Full-Stack Developer | Aspiring AI Engineer | Quick Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=SAURABH+KUMAR;FULL-STACK+DEVELOPER;AI+ENGINEER+IN+TRAINING;QUICK+LEARNER;REMOTE+WORK+LOVER;MERI+JAAN+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+Engineering+Student;Quick+Learner;Remote+Work+Lover" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=soravv-dev&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-CODING_24x7-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ============ ROW 1 - ABOUT ME + STATS SIDE BY SIDE ============ -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<table width="100%">
+<tr>
+<td width="50%">
 
-- 🎓 **Computer Science & Engineering** Diploma Graduate from Meerut, UP 🇮🇳
-- 🤖 Currently learning **AI Engineering** (halfway there! 🎯)
-- ⚡ **Super Quick Learner** – I pick up new tech in no time!
-- 🏠 Love **Remote Work** & building cool stuff from anywhere!
-- 🔥 Fresher with fire – no experience but loads of passion!
+### 👨‍💻 ABOUT ME
+
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" /> **Name:** Saurabh Kumar  
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/map.svg" /> **Location:** Meerut, Uttar Pradesh 🇮🇳  
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/graduationcap.svg" /> **Education:** Diploma (CSE)  
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rocket.svg" /> **Experience:** Fresher 🔥  
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/home.svg" /> **Work Mode:** Remote Only 🏠  
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/robot.svg" /> **Learning:** AI Engineering (50%+ done) 🤖  
+<img align="left" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flash.svg" /> **Superpower:** Quick Learner ⚡
+
+</td>
+<td width="50%">
+
+### 📊 INSTANT STATS
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ============ ROW 2 - TECH STACK COMPACT ============ -->
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mastodon.social/@soravv" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/soravv-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+### 💻 TECH STACK
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+#### 🎨 FRONTEND
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</td>
+<td align="center" width="33%">
+
+#### ⚙️ BACKEND
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-FF6C37?style=flat-square&logo=ejs&logoColor=white" />
+</td>
+<td align="center" width="33%">
+
+#### 🗄️ DB & TOOLS
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============ ROW 3 - STREAK + TOP LANG SIDE BY SIDE ============ -->
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=merko&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=FFFFFF" />
+</p>
+
+</td>
+<td width="50%">
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=FFFFFF" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============ ROW 4 - CONTRIBUTION GRAPH ============ -->
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+<!-- ============ ROW 5 - TROPHIES COMPACT ============ -->
 
-### 🚀 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-FF6C37?style=for-the-badge&logo=ejs&logoColor=white" />
-</p>
+---
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<!-- ============ ROW 6 - CONNECT + QUOTE SIDE BY SIDE ============ -->
 
-### 🛠️ Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 🌐 CONNECT WITH ME
+
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mastodon.social/@soravv" target="_blank">
+  <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+</a>
+<br />
+<a href="mailto:your-email@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/soravv-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 💬 DEV QUOTE
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🎯 My Current Mission
-
-> *"Master AI Engineering while building Full-Stack projects that make a difference!"*
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🐍 Watch My Contribution Snake
+<!-- ============ ROW 7 - SNAKE + FOOTER ============ -->
 
 <p align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
@@ -137,11 +167,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soravv-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b style="font-size:20px; color:#00F7FF;">🔥 KEEP LEARNING, KEEP BUILDING, KEEP GROWING! 🔥</b>
 </p>
 
----
-
 <p align="center">
-  <b>✨ "Keep learning, keep building, keep growing!" ✨</b>
+  <img src="https://img.shields.io/badge/MADE_WITH_❤️-BY_SAURABH-00F7FF?style=for-the-badge" />
 </p>
