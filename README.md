@@ -3,7 +3,7 @@
 <h3 align="center">🔥 Full-Stack Developer | Aspiring AI Engineer | Quick Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+Engineering+Student;Quick+Learner;Remote+Work+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+Engineering+Student;Quick+Learner;Remote+Work+Lover;Vibe+Coding+With+Claude" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -91,31 +91,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true&v=2026-07-15" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true&v=2026-07-15" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true&v=2026-07-15" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7&v=2026-07-15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true&v=2026-07-15" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -134,7 +113,7 @@
 
 ---
 
-## 🐺 Meet My Wolf
+## 🐺 My Spirit Animal
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/wolf.gif" alt="Wolf" width="400" />
@@ -146,10 +125,46 @@
 
 ---
 
+## ⚡ Fun Facts About Me
+
+<table align="center">
+<tr>
+<td align="center">🚀</td>
+<td>I can learn a new tech stack in <b>2 days</b></td>
+</tr>
+<tr>
+<td align="center">☕</td>
+<td>Code runs on <b>chai</b> and <b>passion</b></td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td>My goal: <b>Master AI Engineering</b></td>
+</tr>
+<tr>
+<td align="center">💻</td>
+<td>Vibe Coding with <b>Claude AI</b> is my jam</td>
+</tr>
+<tr>
+<td align="center">🏠</td>
+<td><b>Remote Work</b> is the way of life</td>
+</tr>
+</table>
+
+---
+
+## 🔥 What I'm Working On
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Apps;Learning+AI+Engineering;Contributing+to+Open+Source;Vibe+Coding+Everyday;Hunting+for+Remote+Jobs" alt="Working On" />
+</p>
+
+---
+
 <p align="center">
   <b>✨ "Keep learning, keep building, keep growing!" ✨</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MADE_WITH_❤️-BY_SAURABH-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VIBE_CODING-ON-00F7FF?style=for-the-badge" />
 </p>
