@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm Saurabh Kumar</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Aspiring AI Engineer | Quick Learner</h3>
+<h3 align="center">🔥 Full-Stack Developer | Aspiring AI Engineer | Quick Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+Engineering+Student;Quick+Learner;Remote+Work+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+Engineering+Student;Quick+Learner;Remote+Work+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soravv-dev&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soravv-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -94,12 +94,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -129,7 +129,7 @@
 ## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
@@ -137,7 +137,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
