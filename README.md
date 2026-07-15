@@ -94,12 +94,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true&v=2026-07-15" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true&v=2026-07-15" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true&v=2026-07-15" alt="Top Languages" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7&v=2026-07-15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -115,7 +115,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true&v=2026-07-15" alt="Contribution Graph" />
 </p>
 
 ---
@@ -134,10 +134,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐺 Meet My Wolf
 
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/wolf.gif" alt="Wolf" width="400" />
+</p>
+
+<p align="center">
+  <i>🐺 "Lone wolf, but always ready to hunt in a pack!"</i>
 </p>
 
 ---
