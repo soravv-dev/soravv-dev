@@ -1,32 +1,22 @@
 <h1 align="center">Hi there! 👋 I'm Saurabh Kumar</h1>
-
 <h3 align="center">🔥 Full-Stack Developer | Aspiring AI Engineer | Quick Learner</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+Engineering+Student;Quick+Learner;Remote+Work+Lover" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soravv-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
-
+--
 ## 👨‍💻 About Me
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🎓 **Computer Science & Engineering** Diploma Graduate from Meerut, UP 🇮🇳
 - 🤖 Currently learning **AI Engineering** (halfway there! 🎯)
 - ⚡ **Super Quick Learner** – I pick up new tech in no time!
 - 🏠 Love **Remote Work** & building cool stuff from anywhere!
 - 🔥 Fresher with fire – no experience but loads of passion!
 - 💻 **Vibe Coding** with Claude AI
-
----
-
+--
 ## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,11 +31,8 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
-
 ---
-
 ## 💻 Tech Stack
-
 ### 🚀 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,7 +46,6 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
-
 ### ⚙️ Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -74,7 +60,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
 ### 🛠️ Tools & Others
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -88,11 +73,8 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
-
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soravv-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=soravv-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -101,39 +83,25 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soravv-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
-
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soravv-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
-
 ---
-
 ## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soravv-dev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
-
 ---
-
 ## 🎯 My Current Mission
-
 > *"Master AI Engineering while building Full-Stack projects that make a difference!"*
-
 ---
-
 ## 💬 Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
